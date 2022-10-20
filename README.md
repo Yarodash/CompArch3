@@ -1,3 +1,4 @@
+```sh
 yaroslav@yaroslav-VirtualBox:~/Desktop/labwork$ make
 mkdir -p CACHE
 g++ -c main.cpp -o CACHE/main.o
@@ -10,3 +11,4 @@ yaroslav@yaroslav-VirtualBox:~/Desktop/labwork$ make run
 
 yaroslav@yaroslav-VirtualBox:~/Desktop/labwork$ make clean
 rm -rf CACHE
+```
